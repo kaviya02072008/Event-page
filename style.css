@@ -32,6 +32,11 @@ button{
     color: white;
     background-color:rgb(8, 52, 133) ;
 }
+button:hover{
+    background-color: azure;
+    color: black;
+    box-shadow: 0 10px 25px black;
+}
 .event{
     padding: 20px;
     max-width: 600px;
